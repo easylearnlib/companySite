@@ -1,0 +1,65 @@
+baseURL = "/"
+disableLanguages = []
+theme = "tarjahtech"
+title = "SmartChance"
+[Languages.en]
+contentDir = "content/english"
+copyright = "Copyright &copy; 2021"
+home = "Home"
+languageCode = "en-us"
+languageName = "En"
+weight = 1
+[[Languages.en.menu.main]]
+name = "about"
+url = "#about"
+weight = 1
+[[Languages.en.menu.main]]
+name = "services"
+url = "#services"
+weight = 2
+[[Languages.en.menu.main]]
+name = "team"
+url = "#team"
+weight = 3
+[[Languages.en.menu.main]]
+name = "contact"
+url = "#contact"
+weight = 4
+[params]
+author = "SmartChance"
+description = "SmartChance general IT solutions incorporated"
+google_analytics_id = ""
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/lazy-load/lozad.min.js"
+[params.preloader]
+enable = false
+preloader = "images/logo.png"
+[[params.social]]
+icon = "ti-facebook"
+link = "https://facebook.com/smartchance"
+[[params.social]]
+icon = "ti-twitter-alt"
+link = "https://twitter.com/smartchance"
+[[params.social]]
+icon = "ti-linkedin"
+link = "https://linkedin.com/smartchance"

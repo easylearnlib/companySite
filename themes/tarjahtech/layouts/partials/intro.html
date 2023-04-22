@@ -1,0 +1,26 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ if $data.intro.intro.enable}}
+{{ with $data.intro.intro}}
+{{"<!-- Start Call To Action -->" | safeHTML}}
+<section id="about" class="bg-one about section" style='background-image: url("{{ .bg_image_webp | absURL }}")'>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="title text-center wow fadeIn" data-wow-duration="1500ms">
+                    <h2> {{ with .title }} {{ index (split . " ") 0 | safeHTML }} {{ end }}<span class="color">
+						{{ with .title }} {{ index (split . " ") 1 | safeHTML }} {{ end }} </span></h2>
+                    <div class="border-meghna"></div>
+                </div>
+                {{ range .content }}
+				<div>
+					 <p>{{ .p | markdownify }}</p>
+				</div>
+				{{ end }}
+            </div>
+        </div>
+    </div>
+</section>
+{{"<!-- Start Services Section -->" | safeHTML}}
+{{ end }}
+{{ end }}

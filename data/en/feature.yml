@@ -1,0 +1,19 @@
+---
+feature:
+  enable: true
+  image: "/uploads/macbook_table.jpg"
+  image_webp: "/uploads/macbook_table.webp"
+  title: What Sets Us Apart
+  content: To us, the success of our clients is our success, we take the time to learn
+    about your goals, and we aim to deliver flawlessly. We focalize our skills with
+    your business insight.
+  feature_item:
+  - title: We assure success
+    icon: ti-world
+    content: 'Client satisfaction is our ultimate goal. We always set our targets
+      to exceed the expectations of our clients.
+
+'
+  - title: Deliverables
+    icon: ti-stats-up
+    content: We guarantee our deliverables.

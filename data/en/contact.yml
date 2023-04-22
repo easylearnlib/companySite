@@ -1,0 +1,27 @@
+---
+contact:
+  enable: true
+  title: Contact Us
+  subtitle: Contact Details
+  content: Got a project? Want to collaborate? Contact us and find out how we can
+    help you reimagine your enterprise for the digital age.
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Benson Str, Monrovia, Liberia"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: +231-886-295-272/ +231-777-298-772"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: smrtchance@gmail.com"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "https://formspree.io/f/mgerboqz" #contact form works with https://formspree.io
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"

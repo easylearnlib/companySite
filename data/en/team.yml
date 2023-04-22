@@ -1,0 +1,53 @@
+---
+team:
+  enable: true
+  title: Our Team
+  team_member:
+  - name: Solo Dolley
+    image_webp: images/team/sample.webp
+    image: images/team/sample.jpg
+    designation: Co-founder
+    content: Full-stack Developer
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+  - name: Siaka Joe Sirleaf
+    image_webp: images/team/joe.webp
+    image: images/team/joe.webp
+    designation: Co-funder
+    content: Developer
+    social:
+    - icon: ti-facebook
+      link: https://www.facebook.com/siaka.joe.sirleaf
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: https://www.linkedin.com/in/siaka-joe-sirleaf-5b96061b2
+  - name: Ansu Jabateh
+    image_webp: images/team/pires.webp
+    image: images/team/pires.jpg
+    designation: Co-founder
+    content: Administration
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+  - name: George Teage
+    image_webp: images/team/george.webp
+    image: images/team/george.jpg
+    designation: Co-founder
+    content: Operation
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"

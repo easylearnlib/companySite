@@ -1,0 +1,11 @@
+---
+cta:
+  enable: true
+  bg_image: images/backgrounds/bg-white-wall.jpg
+  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  title: Get started with SmartChance
+  content: Do you have an interesting idea that you want to bring to life ...
+  button:
+    enable: true
+    label: Start a project with us
+    link: "#contact"

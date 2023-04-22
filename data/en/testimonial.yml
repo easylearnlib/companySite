@@ -1,0 +1,46 @@
+---
+testimonial:
+  enable: false
+  bg_image: images/backgrounds/bg-testimonial.jpg
+  bg_image_webp: images/backgrounds/bg-testimonial.webp
+  testimonial_item:
+  - name: Miss. Tanneh Tugbe
+    image: ''
+    image_webp: ''
+    date: October 10, 2021
+    content: |-
+      "TarjahTech have taken my public image to the next level. As an aspiring model and beauty queen, I needed a place to that I could share myself with the world, speak my truth, and share my pageantry platform. TarjahTech made it all possible. My team and I are very impressed with their web development and teachings on working with the Content Management System (CMS).
+
+      I strongly recommend Tarjahtech for your web development needs."
+  - name: Mohamed Cherif
+    image: images/client/sample.jpg
+    image_webp: images/client/sample.webp
+    date: Dec 26, 2020
+    content: |-
+      "If you're starting a new business or upgrading an existing site, I strongly recommend using TarjahTech. The development team is friendly, knowledgeable, and dedicated to producing a high quality product."
+
+      Mohamed Cherif
+      WeFarm
+      Guinea, Conakry
+  - name: Amb. Allen Mitchell
+    image: images/client/sample.jpg
+    image_webp: images/client/sample.webp
+    date: August  12, 2021
+    content: |+
+      "I couldn't be glad with my choice of using TarjahTech for our NGO website. Their team were easy to work with and helped me make a terrific website in a short amount of time.
+
+      Thanks again guys for all your hard work I will recommend you to all my friends and partners!"
+
+  - name: Tyrese Tony Sando
+    image: "/uploads/tyrese.jpg"
+    image_webp: "/uploads/tyrese.webp"
+    date: September 12, 2021
+    content: '"As a person with background in Computer Science, I had very high expectations
+      for the type of website I wanted to create.  I was very pleased with the work
+      done by TarjahTech.  They worked very hard to create what I had envisioned for
+      our company''s website.  Not only were they very knowledgeable and efficient
+      in their work, but they also offered their suggestions and creative ideas time
+      and time again throughout the process of adding numerous pages and features
+      to our website. I was very impressed with the quality of work, customer care,
+      and meticulous attention to detail.  I will surely refer them to any business
+      associates who are looking for quality web designers!"'

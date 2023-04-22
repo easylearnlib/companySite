@@ -1,0 +1,18 @@
+---
+service:
+  enable: true
+  title: Our Services
+  service_item:
+  - name: UI/UX Design
+    icon: ti-gallery
+    content: SmartChance specializes in the design of web and mobile application, providing
+      an interactive user Interface(UI).
+  - name: Mobile and Desktop Application Development
+    icon: ti-mobile
+    content: We build clean & customized android and iOS apps to create a lasting
+      impression both visually and interactively.
+  - name: Web Application Development
+    icon: ti-desktop
+    content: We build and design responsive websites that improves Search Engine optimization
+      (SEO) and cross-platform compatibility.
+  

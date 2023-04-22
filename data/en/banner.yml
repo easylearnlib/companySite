@@ -1,0 +1,13 @@
+---
+banner:
+  enable: true
+  bg_image_webp: "/uploads/office.webp"
+  bg_image: "/uploads/office.jpg"
+  icon: ''
+  title: You Imagine It..,
+  subtitle: We Build It
+  content: We do more, we cost less. Its that simple.
+  button:
+    enable: true
+    label: Explore Us
+    link: "#services"

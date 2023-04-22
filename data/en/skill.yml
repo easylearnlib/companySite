@@ -1,0 +1,18 @@
+---
+skill:
+  enable: false
+  title: Our Skills
+  subtitle: We’ve skilled in wide range of web and Other digital market tools.
+  content: As a team we more than happy to learn new skills and evolve with the industry's
+    changing trends to fulfill our  client's expectations. for us its not just another
+    project; it's a passion for developing the identity for our clients.
+  image: images/about/company-growth.webp
+  skill_item:
+  - name: Responsive web Design
+    percent: 95%
+  - name: Android Development
+    percent: 75%
+  - name: IOS Development
+    percent: 95%
+  - name: Web Hosting
+    percent: 92%
