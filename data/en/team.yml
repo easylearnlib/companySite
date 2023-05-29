@@ -6,8 +6,8 @@ team:
   - name: Solo Dolley
     image_webp: images/team/sample.webp
     image: images/team/sample.jpg
-    designation: Co-founder
-    content: Full-stack Developer
+    designation: Co-founder/CEO
+    content: Senior Software Engineer
     social:
     - icon: ti-facebook
       link: "#"
@@ -18,8 +18,8 @@ team:
   - name: Siaka Joe Sirleaf
     image_webp: images/team/joe.webp
     image: images/team/joe.webp
-    designation: Co-funder
-    content: Developer
+    designation: Co-funder/ CTO
+    content: System Admin. & Security
     social:
     - icon: ti-facebook
       link: https://www.facebook.com/siaka.joe.sirleaf
@@ -30,8 +30,8 @@ team:
   - name: Ansu Jabateh
     image_webp: images/team/pires.webp
     image: images/team/pires.jpg
-    designation: Co-founder
-    content: Administration
+    designation: Co-founder/ CFO
+    content: Database Admin. & Architect
     social:
     - icon: ti-facebook
       link: "#"
@@ -42,8 +42,8 @@ team:
   - name: George Teage
     image_webp: images/team/george.webp
     image: images/team/george.jpg
-    designation: Co-founder
-    content: Operation
+    designation: Co-founder/ Operation
+    content: Marketing
     social:
     - icon: ti-facebook
       link: "#"
