@@ -4,8 +4,8 @@ portfolio:
   title: Our Works
   portfolio_item:
   - name: Property Valuation
-    image: "/uploads/edu.JPG"
-    image_webp: "/uploads/edu.webp"
+    image: "/uploads/office.JPG"
+    image_webp: "/uploads/office.webp"
     categories:
     - development
     content: Property Valuation app and data center for Liberia revenue authority funded by UNDP
@@ -18,7 +18,7 @@ portfolio:
     - design
     content: Your go-to destination for real-time updates on the latest market trends
       and price movements across Liberia.
-    link: https://market.emaas.org
+    link: https://market.smartchance.org
 
   - name: Everyday Waste Solution
     image: "/uploads/ews.JPG"
@@ -26,5 +26,13 @@ portfolio:
     categories:
     - development
     content: A waste management website.
-    link: https://liberiawastesolutions.com
+    link: https://waste.smartchance.org
+
+  - name: School Database
+    image: "/uploads/edu.JPG"
+    image_webp: "/uploads/edu.webp"
+    categories:
+    - development
+    content: Liberia School Database
+    link: https://schools.smartchance.org
 

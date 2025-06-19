@@ -20,7 +20,7 @@ team:
     image_webp: images/team/ansu.webp
     image: images/team/ansu.jpg
     designation: Co-founder/ Data Engineer
-    content: A talented professional with a background in Economics, Ansu has extensive experience working as a data analyst and a project manager.
+    content: Ansu Jabateh is a talented professional with a background in Economics, Ansu has extensive experience working as a data analyst and a project manager.
     social:
     - icon: ti-facebook
       link: "#"
