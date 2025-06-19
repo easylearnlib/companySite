@@ -1,6 +1,6 @@
 ---
 skill:
-  enable: false
+  enable: true
   title: Our Skills
   subtitle: We’ve skilled in wide range of web and Other digital market tools.
   content: As a team we more than happy to learn new skills and evolve with the industry's
@@ -9,10 +9,10 @@ skill:
   image: images/about/company-growth.webp
   skill_item:
   - name: Responsive web Design
-    percent: 95%
+    percent: 100%
   - name: Android Development
-    percent: 75%
+    percent: 100%
   - name: IOS Development
-    percent: 95%
+    percent: 100%
   - name: Web Hosting
-    percent: 92%
+    percent: 100%

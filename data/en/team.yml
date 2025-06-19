@@ -4,10 +4,10 @@ team:
   title: Our Team
   team_member:
   - name: Solo Dolley
-    image_webp: images/team/sample.webp
-    image: images/team/sample.jpg
+    image_webp: images/team/solo.webp
+    image: images/team/solo.jpg
     designation: Co-founder/CEO
-    content: Senior Software Engineer
+    content: Solo Dolley is a visionary leader with a strong technical background. He brings over 7 years of experience in software engineering, solution architecture, and data analysis.
     social:
     - icon: ti-facebook
       link: "#"
@@ -15,11 +15,25 @@ team:
       link: "#"
     - icon: ti-linkedin
       link: "#"
+
+  - name: Ansu Jabateh
+    image_webp: images/team/pires.webp
+    image: images/team/pires.jpg
+    designation: Co-founder/ Data Engineer
+    content: A talented professional with a background in Economics, Ansu has extensive experience working as a data analyst and a project manager.
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+
   - name: Siaka Joe Sirleaf
     image_webp: images/team/joe.webp
     image: images/team/joe.webp
-    designation: Co-funder/ CTO
-    content: System Admin. & Security
+    designation: Data Engineer
+    content: Siaka Joe Sirleaf works alongside the lead engineer to develop and test machine learning models, assist in data preprocessing, monitor algorithm performance, and support the integration of AI components into ongoing projects.
     social:
     - icon: ti-facebook
       link: https://www.facebook.com/siaka.joe.sirleaf
@@ -27,11 +41,14 @@ team:
       link: "#"
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/siaka-joe-sirleaf-5b96061b2
-  - name: Ansu Jabateh
-    image_webp: images/team/pires.webp
-    image: images/team/pires.jpg
-    designation: Co-founder/ CFO
-    content: Database Admin. & Architect
+
+ 
+
+  - name: George Teage
+    image_webp: images/team/george.webp
+    image: images/team/george.jpg
+    designation: Co-founder/ Operation
+    content: George oversees the coordination of project deliverables for external clients
     social:
     - icon: ti-facebook
       link: "#"
@@ -39,11 +56,25 @@ team:
       link: "#"
     - icon: ti-linkedin
       link: "#"
-  - name: George Teage
-    image_webp: images/team/george.webp
-    image: images/team/george.jpg
-    designation: Co-founder/ Operation
-    content: Marketing
+
+  - name: Lusene Sheriff
+    image_webp: images/team/lusene.webp
+    image: images/team/lusene.jpg
+    designation: Developer
+    content:  Losene participates in the design, coding, testing, and debugging of software applications. Supports senior developers in maintaining codebases, writing documentation, and deploying software updates across various platforms
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+
+  - name: Kenneth Momoh
+    image_webp: images/team/momo.webp
+    image: images/team/momo.jpg
+    designation: Co-founder/ Research & Innovation
+    content: Kenneth Momoh focuses on early-stage technical research and the design of system architecture.
     social:
     - icon: ti-facebook
       link: "#"

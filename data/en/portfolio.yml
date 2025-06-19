@@ -1,8 +1,16 @@
 ---
 portfolio:
-  enable: false
+  enable: true
   title: Our Works
   portfolio_item:
+  - name: Property Valuation
+    image: "/uploads/edu.JPG"
+    image_webp: "/uploads/edu.webp"
+    categories:
+    - development
+    content: Property Valuation app and data center for Liberia revenue authority funded by UNDP
+    link: https://data.emaas.org
+
   - name: LibMarket Index
     image: "/uploads/libmarket.JPG"
     image_webp: "/uploads/libmarket.webp"
@@ -10,7 +18,8 @@ portfolio:
     - design
     content: Your go-to destination for real-time updates on the latest market trends
       and price movements across Liberia.
-    link: https://libmarketindex.com/
+    link: https://market.emaas.org
+
   - name: Everyday Waste Solution
     image: "/uploads/ews.JPG"
     image_webp: "/uploads/ews.webp"
@@ -18,10 +27,4 @@ portfolio:
     - development
     content: A waste management website.
     link: https://liberiawastesolutions.com
-  - name: EDU-LIBERIA
-    image: "/uploads/edu.JPG"
-    image_webp: "/uploads/edu.webp"
-    categories:
-    - development
-    content: A school management application
-    link: http://schools.studyinliberia.xyz
+
