@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://smartchance.org/"
 disableLanguages = []
 theme = "tarjahtech"
 title = "SmartChance"
