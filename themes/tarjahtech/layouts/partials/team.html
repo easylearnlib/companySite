@@ -27,11 +27,6 @@
             {{"<!-- member social profile -->" | safeHTML}}
             <div class="mask">
               <p>{{ .content | markdownify }}</p>
-              <ul class="list-inline">
-                {{ range .social }}
-                <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
-                {{ end }}
-              </ul>
             </div>
           </div>
 
@@ -39,7 +34,11 @@
           <div class="member-meta">
             <h4>{{ .name }}</h4>
             <span>{{ .designation | markdownify}}</span>
-        
+             <ul class="list-inline">
+                {{ range .social }}
+                <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
+                {{ end }}
+            </ul>
           </div>
         </div>
       </div>

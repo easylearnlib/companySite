@@ -1011,7 +1011,7 @@ a:hover {
 
 
 .member-photo .mask {
-    background-color: var(--secondary-clr);
+    background-color: var(--primary-clr);
     position: absolute;
     text-align: center;
     height: 100%;
