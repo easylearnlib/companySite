@@ -6,7 +6,7 @@ team:
   - name: Solo Dolley
     image_webp: images/team/solo.webp
     image: images/team/solo.jpg
-    designation: Co-founder/CEO
+    designation: Co-founder/ CEO
     content: Solo Dolley is a visionary leader with a strong technical background. He brings over 7 years of experience in software engineering, solution architecture, and data analysis.
     social:
     - icon: ti-facebook
@@ -59,7 +59,7 @@ team:
     image_webp: images/team/lusene.webp
     image: images/team/lusene.jpg
     designation: Developer
-    content:  Losene participates in the design, coding, testing, and debugging of software applications. Supports senior developers in maintaining codebases, writing documentation, and deploying software updates across various platforms
+    content:  Losene participates in the design, coding, testing, and debugging of software applications. 
     social:
     - icon: ti-facebook
       link: "#"
