@@ -19,8 +19,21 @@ team:
   - name: Ansu Jabateh
     image_webp: images/team/ansu.webp
     image: images/team/ansu.jpg
-    designation: Co-founder/ Data Engineer
+    designation: Co-founder/ Manager
     content: Ansu Jabateh is a talented professional with a background in Economics, Ansu has extensive experience working as a data analyst and a project manager.
+    social:
+    - icon: ti-facebook
+      link: "#"
+    - icon: ti-twitter-alt
+      link: "#"
+    - icon: ti-linkedin
+      link: "#"
+
+  - name: George Teage
+    image_webp: images/team/george.webp
+    image: images/team/george.jpg
+    designation: Co-founder/ Operation
+    content: George oversees the coordination of project deliverables for external clients
     social:
     - icon: ti-facebook
       link: "#"
@@ -42,21 +55,6 @@ team:
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/siaka-joe-sirleaf-5b96061b2
 
- 
-
-  - name: George Teage
-    image_webp: images/team/george.webp
-    image: images/team/george.jpg
-    designation: Co-founder/ Operation
-    content: George oversees the coordination of project deliverables for external clients
-    social:
-    - icon: ti-facebook
-      link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
-    - icon: ti-linkedin
-      link: "#"
-
   - name: Lusene Sheriff
     image_webp: images/team/lusene.webp
     image: images/team/lusene.jpg
@@ -73,7 +71,7 @@ team:
   - name: Kenneth Momoh
     image_webp: images/team/momo.webp
     image: images/team/momo.jpg
-    designation: Co-founder/ Research & Innovation
+    designation: Research & Innovation
     content: Kenneth Momoh focuses on early-stage technical research and the design of system architecture.
     social:
     - icon: ti-facebook
