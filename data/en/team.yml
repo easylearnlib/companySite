@@ -6,7 +6,7 @@ team:
   - name: Solo Dolley
     image_webp: images/team/solo.webp
     image: images/team/solo.jpg
-    designation: Co-founder/ CEO
+    designation: CEO/ Lead Engineer
     content: Solo Dolley is a visionary leader with a strong technical background. He brings over 7 years of experience in software engineering, solution architecture, and data analysis.
     social:
     - icon: ti-facebook
@@ -19,7 +19,7 @@ team:
   - name: Ansu Jabateh
     image_webp: images/team/ansu.webp
     image: images/team/ansu.jpg
-    designation: Co-founder/ Manager
+    designation: Manager/ Data Engineer
     content: Ansu Jabateh is a talented professional with a background in Economics, Ansu has extensive experience working as a data analyst and a project manager.
     social:
     - icon: ti-facebook
@@ -32,7 +32,7 @@ team:
   - name: George Teage
     image_webp: images/team/george.webp
     image: images/team/george.jpg
-    designation: Co-founder/ Operation
+    designation: Operation
     content: George oversees the coordination of project deliverables for external clients
     social:
     - icon: ti-facebook
