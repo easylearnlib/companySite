@@ -58,8 +58,5 @@ preloader = "images/logo.png"
 icon = "ti-facebook"
 link = "https://facebook.com/smartchance"
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "https://twitter.com/smartchance"
-[[params.social]]
 icon = "ti-linkedin"
 link = "https://linkedin.com/smartchance"

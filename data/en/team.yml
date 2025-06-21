@@ -11,8 +11,8 @@ team:
     social:
     - icon: ti-facebook
       link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
+    # - icon: ti-twitter-alt
+    #   link: "#"
     - icon: ti-linkedin
       link: "#"
 
@@ -24,8 +24,8 @@ team:
     social:
     - icon: ti-facebook
       link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
+    # - icon: ti-twitter-alt
+    #   link: "#"
     - icon: ti-linkedin
       link: "#"
 
@@ -37,8 +37,8 @@ team:
     social:
     - icon: ti-facebook
       link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
+    # - icon: ti-twitter-alt
+    #   link: "#"
     - icon: ti-linkedin
       link: "#"
 
@@ -50,8 +50,8 @@ team:
     social:
     - icon: ti-facebook
       link: https://www.facebook.com/siaka.joe.sirleaf
-    - icon: ti-twitter-alt
-      link: "#"
+    # - icon: ti-twitter-alt
+    #   link: "#"
     - icon: ti-linkedin
       link: https://www.linkedin.com/in/siaka-joe-sirleaf-5b96061b2
 
@@ -63,8 +63,8 @@ team:
     social:
     - icon: ti-facebook
       link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
+    # - icon: ti-twitter-alt
+    #   link: "#"
     - icon: ti-linkedin
       link: "#"
 
@@ -76,7 +76,7 @@ team:
     social:
     - icon: ti-facebook
       link: "#"
-    - icon: ti-twitter-alt
-      link: "#"
+    # - icon: ti-twitter-alt
+    #   link: "#"
     - icon: ti-linkedin
       link: "#"
