@@ -2,6 +2,7 @@ baseURL = "https://smartchance.org/"
 disableLanguages = []
 theme = "tarjahtech"
 title = "SmartChance"
+logo = "images/logo.jpg"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2021"
@@ -18,15 +19,20 @@ name = "services"
 url = "#services"
 weight = 2
 [[Languages.en.menu.main]]
+name = "portfolio"
+url = "#portfolio"
+weight = 3
+[[Languages.en.menu.main]]
 name = "team"
 url = "#team"
-weight = 3
+weight = 4
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 4
+weight = 5
 [params]
 author = "SmartChance"
+logo = "images/logo.jpg"
 description = "SmartChance general IT solutions incorporated"
 google_analytics_id = ""
 [[params.plugins.css]]
@@ -53,7 +59,7 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 link = "plugins/lazy-load/lozad.min.js"
 [params.preloader]
 enable = false
-preloader = "images/logo.png"
+preloader = "images/logo.jpg"
 [[params.social]]
 icon = "ti-facebook"
 link = "https://facebook.com/smartchance"
