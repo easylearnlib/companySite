@@ -68,15 +68,15 @@ team:
     - icon: ti-linkedin
       link: "#"
 
-  - name: Kenneth Momoh
-    image_webp: images/team/momo.webp
-    image: images/team/momo.jpg
-    designation: Research & Innovation
-    content: Kenneth Momoh focuses on early-stage technical research and the design of system architecture.
-    social:
-    - icon: ti-facebook
-      link: "#"
-    # - icon: ti-twitter-alt
-    #   link: "#"
-    - icon: ti-linkedin
-      link: "#"
+  # - name: Kenneth Momoh
+  #   image_webp: images/team/momo.webp
+  #   image: images/team/momo.jpg
+  #   designation: Research & Innovation
+  #   content: Kenneth Momoh focuses on early-stage technical research and the design of system architecture.
+  #   social:
+  #   - icon: ti-facebook
+  #     link: "#"
+  #   # - icon: ti-twitter-alt
+  #   #   link: "#"
+  #   - icon: ti-linkedin
+  #     link: "#"
