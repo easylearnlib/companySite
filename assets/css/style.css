@@ -832,7 +832,7 @@ a:hover {
 
 .portfolio-block {
     position: relative;
-    height: 240px;
+    height: 200px;
 }
 
 .portfolio-block:before {
@@ -853,7 +853,7 @@ a:hover {
 }
 
 .portfolio-block:hover:before {
-    opacity: 0.6;
+    opacity: 0.8;
 }
 
 .portfolio-block:hover .caption h4 {
@@ -861,7 +861,7 @@ a:hover {
 }
 
 .portfolio-block:hover .caption {
-    opacity: 0.6;
+    opacity: 0.8;
     top: 55%;
 }
 
