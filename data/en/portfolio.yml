@@ -29,7 +29,7 @@ portfolio:
   #   link: https://waste.smartchance.org
 
   - name: School Database
-    image: "/uploads/edu.JPG"
+    image: "/uploads/edu.png"
     image_webp: "/uploads/edu.webp"
     categories:
     - development
