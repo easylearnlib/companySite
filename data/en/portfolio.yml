@@ -28,11 +28,11 @@ portfolio:
   #   content: A waste management website.
   #   link: https://waste.smartchance.org
 
-  - name: School Database
+  - name: School Finder
     image: "/uploads/edu.png"
     image_webp: "/uploads/edu.webp"
     categories:
     - development
-    content: Liberia School Database
+    content: Discover and compare high schools across the country. Make informed decisions about your child’s future.
     link: https://schools.smartchance.org
 
