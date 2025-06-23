@@ -23,11 +23,11 @@ team:
     content: Ansu Jabateh is a talented professional with a background in Economics, Ansu has extensive experience working as a data analyst and a project manager.
     social:
     - icon: ti-facebook
-      link: "#"
+      link: "https://www.facebook.com/jabateh.ansu/"
     # - icon: ti-twitter-alt
     #   link: "#"
     - icon: ti-linkedin
-      link: "#"
+      link: "https://lr.linkedin.com/in/ansu-k-jabateh-508712183"
 
   - name: George Teage
     image_webp: images/team/george.webp
@@ -62,11 +62,11 @@ team:
     content:  Losene participates in the design, coding, testing, and debugging of software applications. 
     social:
     - icon: ti-facebook
-      link: "#"
+      link: "https://www.facebook.com/share/1H6ViXDb2x/"
     # - icon: ti-twitter-alt
     #   link: "#"
     - icon: ti-linkedin
-      link: "#"
+      link: "https://lr.linkedin.com/in/losene-sheriff-7b3316371"
 
   # - name: Kenneth Momoh
   #   image_webp: images/team/momo.webp

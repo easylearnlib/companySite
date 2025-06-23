@@ -33,7 +33,7 @@ weight = 5
 [params]
 author = "SmartChance"
 logo = "images/logo.png"
-description = "SmartChance general IT solutions incorporated"
+description = "SmartChance is a forward-thinking software engineering company committed to delivering innovative and high-tech digital solutions. We specialize in turning ideas into modern web applications by leveraging the latest technologies and development practices."
 google_analytics_id = ""
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
