@@ -10,11 +10,11 @@ team:
     content: Solo Dolley is a visionary leader with a strong technical background. He brings over 7 years of experience in software engineering, solution architecture, and data analysis.
     social:
     - icon: ti-facebook
-      link: "#"
+      link: "https://www.linkedin.com/in/solo-omaru-dolley-b8b504153/"
     # - icon: ti-twitter-alt
     #   link: "#"
     - icon: ti-linkedin
-      link: "#"
+      link: "https://www.linkedin.com/in/solo-omaru-dolley-b8b504153/"
 
   - name: Ansu Jabateh
     image_webp: images/team/ansu.webp
@@ -36,11 +36,11 @@ team:
     content: George oversees the coordination of project deliverables for external clients
     social:
     - icon: ti-facebook
-      link: "#"
+      link: "https://www.facebook.com/teage.george.39/"
     # - icon: ti-twitter-alt
     #   link: "#"
     - icon: ti-linkedin
-      link: "#"
+      link: "https://www.facebook.com/teage.george.39/"
 
   - name: Siaka Joe Sirleaf
     image_webp: images/team/joe.webp
