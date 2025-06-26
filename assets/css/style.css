@@ -833,7 +833,7 @@ a:hover {
 .portfolio-block {
     position: relative;
     height: 200px;
-    border: 1px solid var(--secondary-clr);
+    border: 1px solid white;
 }
 
 .portfolio-block:before {
