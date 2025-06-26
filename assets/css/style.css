@@ -886,7 +886,7 @@ a:hover {
 }
 
 .portfolio-block .portfolio-footer a {
-    color: #555;
+     color: var(--secondary-clr);
 }
 
 .portfolio-block .caption h4 {
