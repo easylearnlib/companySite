@@ -28,10 +28,19 @@
 							{{ if or (eq .link "#") (eq .link "") }}
 							{{ .name }}
 							{{ else }}
-							<a href="{{ .link | safeURL }}">{{ .name }}</a>
+							<a href="{{ .link | safeURL }}" target="_blank" rel="noopener noreferrer">
+								{{ .name }}
+							</a>
 							{{ end }}
 						</h4>
 						<p>{{ .content | markdownify }}</p>
+						{{ if and (ne .link "#") (ne .link "") }}
+						<p>
+							<a href="{{ .link | safeURL }}" target="_blank" rel="noopener noreferrer">
+								View project
+							</a>
+						</p>
+						{{ end }}
 					</div>
 				</div>
 			</div>
