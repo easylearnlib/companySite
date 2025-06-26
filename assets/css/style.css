@@ -883,7 +883,7 @@ a:hover {
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: var(--secondary-clr);
+    background: #353b43;
 }
 
 .portfolio-block .portfolio-footer a {
