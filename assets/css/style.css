@@ -882,7 +882,8 @@ a:hover {
     align-items: center;
     justify-content: center;
     text-align: center;
-    border: 1px solid #eee;
+    background: #eee;
+    color: #737f8a;
 }
 
 .portfolio-block .caption h4 {
