@@ -4,8 +4,8 @@ portfolio:
   title: Our Works
   portfolio_item:
   - name: Property Valuation
-    image: "/uploads/tab.jpg"
-    image_webp: "/uploads/tab.webp"
+    image: "/uploads/emaas.png"
+    image_webp: "/uploads/emaas.webp"
     categories:
     - development
     content: Property Valuation app and data center for Liberia revenue authority funded by UNDP
