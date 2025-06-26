@@ -62,7 +62,7 @@ enable = false
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-facebook"
-link = "https://facebook.com/smartchance"
+link = "https://www.facebook.com/share/1PWT3rbVe7/"
 [[params.social]]
 icon = "ti-linkedin"
 link = "https://linkedin.com/smartchance"
