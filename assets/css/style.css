@@ -833,6 +833,7 @@ a:hover {
 .portfolio-block {
     position: relative;
     height: 200px;
+    border: 1px solid var(--secondary-clr);
 }
 
 .portfolio-block:before {
@@ -887,7 +888,6 @@ a:hover {
 
 .portfolio-block .portfolio-footer a {
      color: #fff;
-     text-decoration: underline;
 }
 
 .portfolio-block .caption h4 {
