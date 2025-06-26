@@ -882,11 +882,12 @@ a:hover {
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: #eee;
+    background: var(--secondary-clr);
 }
 
 .portfolio-block .portfolio-footer a {
-     color: var(--secondary-clr);
+     color: #fff;
+     text-decoration: underline;
 }
 
 .portfolio-block .caption h4 {
