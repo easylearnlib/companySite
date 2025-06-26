@@ -878,6 +878,9 @@ a:hover {
 }
 
 .portfolio-block .portfolio-footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     padding: 10px 0;
     text-align: center;
     border: 1px solid #eee;
