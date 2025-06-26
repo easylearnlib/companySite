@@ -1,8 +1,8 @@
 /*
 
-Author: TarjahTech
-Author URI: www.tarjahTech.com
-Description: TarjahTech IT solutions
+Author: Smartchance
+Author URI: smartchance.org
+Description: Smartchance IT solutions
 Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive, html5, css3
 */
 /*=== MEDIA QUERY ===*/
@@ -832,7 +832,7 @@ a:hover {
 
 .portfolio-block {
     position: relative;
-    height: 180px;
+    height: 200px;
 }
 
 .portfolio-block:before {
