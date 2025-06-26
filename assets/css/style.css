@@ -884,6 +884,7 @@ a:hover {
     justify-content: center;
     text-align: center;
     background: #fff;
+    border: 1px solid #fff;
 }
 
 .portfolio-block .portfolio-footer a {
