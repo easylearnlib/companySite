@@ -34,12 +34,14 @@
 							{{ end }}
 						</h4>
 						<p>{{ .content | markdownify }}</p>
+					</div>
+					<div>
 						{{ if and (ne .link "#") (ne .link "") }}
-						<p>
-							<a href="{{ .link | safeURL }}" target="_blank" rel="noopener noreferrer">
-								View project
-							</a>
-						</p>
+							<p>
+								<a href="{{ .link | safeURL }}" target="_blank" rel="noopener noreferrer">
+									View project
+								</a>
+							</p>
 						{{ end }}
 					</div>
 				</div>
