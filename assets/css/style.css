@@ -877,6 +877,12 @@ a:hover {
     text-align: center;
 }
 
+.portfolio-block .portfolio-footer {
+    padding: 10px 0;
+    text-align: center;
+    border: 1px solid #eee;
+}
+
 .portfolio-block .caption h4 {
     font-size: 16px;
     font-weight: 600;

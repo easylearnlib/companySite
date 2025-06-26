@@ -35,9 +35,9 @@
 						</h4>
 						<p>{{ .content | markdownify }}</p>
 					</div>
-					<div>
+					<div class="portfolio-footer">
 						{{ if and (ne .link "#") (ne .link "") }}
-							<p class="mt-2">
+							<p>
 								<a href="{{ .link | safeURL }}" target="_blank" rel="noopener noreferrer">
 									View project
 								</a>
