@@ -832,7 +832,7 @@ a:hover {
 
 .portfolio-block {
     position: relative;
-    height: 240px;
+    height: 200px;
 }
 
 .portfolio-block:before {
@@ -882,6 +882,7 @@ a:hover {
     align-items: center;
     justify-content: center;
     text-align: center;
+    border: 1px solid #eee;
 }
 
 .portfolio-block .caption h4 {
