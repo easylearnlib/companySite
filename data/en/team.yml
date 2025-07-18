@@ -3,18 +3,7 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - name: Solo Dolley
-    image_webp: images/team/solo.webp
-    image: images/team/solo.jpg
-    designation: CEO/ Lead Engineer
-    content: Solo Dolley is a visionary leader with a strong technical background. He brings over 7 years of experience in software engineering, solution architecture, and data analysis.
-    social:
-    - icon: ti-facebook
-      link: "https://www.linkedin.com/in/solo-omaru-dolley-b8b504153/"
-    # - icon: ti-twitter-alt
-    #   link: "#"
-    - icon: ti-linkedin
-      link: "https://www.linkedin.com/in/solo-omaru-dolley-b8b504153/"
+
 
   - name: Ansu Jabateh
     image_webp: images/team/ansu.webp
